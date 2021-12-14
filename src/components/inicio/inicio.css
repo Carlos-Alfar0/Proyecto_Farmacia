@@ -1,0 +1,64 @@
+
+body{
+    background-color: #ffffff;
+    text-align: center;
+}
+
+
+.imagen{
+    width: 300px;
+    margin: 1%;
+}
+
+
+
+.Padre{
+   
+    display: flex;
+    margin-top: 50PX;
+    border-radius: 40px;
+    border: 1px solid; 
+    margin-left: 90px;
+    margin-right: 10%;
+    margin-top: 3%;
+    border-radius: 10px;
+}
+
+
+
+ 
+.imagen_central{
+    text-align:left
+}
+
+
+.Madre img{
+
+    margin-top: 25%;
+}
+
+.Madre{
+    
+    border-right: 1px solid;
+}
+
+.total {
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+
+.superior{
+    margin-top: 5%;
+}
+
+.vision{
+    margin-left: 20px;
+    margin-right: 2%;
+}
+
+.mision{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+
